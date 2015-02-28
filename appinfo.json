@@ -1,0 +1,25 @@
+{
+    "appKeys": {
+        "money": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "me@purdue.edu",
+    "longName": "pbl-ks",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "pbl-ks",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "096aa64d-e140-4a29-96fc-dd6199120736",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
